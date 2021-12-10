@@ -1,4 +1,4 @@
-# ChromeOS-Linux
+# ChromeOS-Linux a.k.a. CrOS-Linux
 Builds of linux-chromeos with codecs and build optimizations. Based off of my other repo, Thorium > https://github.com/Alex313031/Thorium
 - linux-chromeos runs the ChromiumOS system UI within a X11 window on linux.
 - linux-chromeos is also called Linux_ChromiumOS_Full and vanilla binaries can be downloaded from > https://download-chromium.appspot.com/?platform=Linux_ChromiumOS_Full&type=snapshots
